@@ -4,3 +4,4 @@
 2. board managerdan esp8266 2.42 sürümü yükle
 3. esp8266 dan nodemcu 1.0 (esp 12-E Module) seç
 4. [Olası hata çözümleri ](https://chatgpt.com/share/674c1a6b-f728-8008-bd3b-b47075cb05d4)
+5. [Nodemcu Sorun Çözme Port /dev/ttyUSB0 veya brltty 2.5.2 esp8266 ](https://github.com/esp8266/source-code-examples/issues/26)
