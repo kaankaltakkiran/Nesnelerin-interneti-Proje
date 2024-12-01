@@ -11,3 +11,11 @@
 ```bash
 sudo apt remove brltty -y
 ```
+
+7. Kullanıcı izni tanımlama
+
+```bash
+sudo usermod -a -G dialout $USER
+sudo chmod a+rw /dev/ttyUSB*
+
+```
