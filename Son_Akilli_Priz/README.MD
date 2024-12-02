@@ -1,5 +1,5 @@
 # Akkıllı Priz Projesi
 
-- [Arduino Notlarım](https://github.com/OsmanKAYI/full-stack-roadmap/tree/main/hobbies/arduino)
+- [Arduino Notlarım]()
 
 - [Web Site Notlarım ](https://github.com/OsmanKAYI/full-stack-roadmap/tree/main/hobbies/arduino)
