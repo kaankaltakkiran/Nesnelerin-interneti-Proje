@@ -1,15 +1,15 @@
 // Blynk ile calisan akilli priz
 
 #define BLYNK_AUTH_TOKEN "My secret auth token"
-#define BLYNK_TEMPLATE_ID "TMPL4oyM1lEz4"
-#define BLYNK_TEMPLATE_NAME "Kaan Akıllı Priz"
+#define BLYNK_TEMPLATE_ID "Template ID"
+#define BLYNK_TEMPLATE_NAME "Template Name"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
 // Wi-Fi bilgileri
-char ssid[] = "Kaan";
-char pass[] = "123456789123123123123123123123123123123123";
+char ssid[] = "Wifi adi";
+char pass[] = "Wifi sifresi";
 
 // Röle pini
 int relayPin = D5;
