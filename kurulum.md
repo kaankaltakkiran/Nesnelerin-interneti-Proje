@@ -8,6 +8,8 @@
 
 6. [Port bulmazsa çözüm ](https://github.com/OsmanKAYI/full-stack-roadmap/tree/main/hobbies/arduino)
 
+7. [Mysql Bağlantı Sorunu Yunohost Phpmyadmin Kullanıcı 3306 Portu ](https://chatgpt.com/share/674d5b93-f3d0-8008-9ffc-3b2d7818ef56)
+
 ```bash
 sudo apt remove brltty -y
 ```
