@@ -1,5 +1,6 @@
 # Nesnelerin-interneti-Proje
-Akıllı Priz
+
+Arduino ile geliştirdiğim, uzaktan kontrol edilebilen `akıllı priz` projesi.
 ![Screenshot_1](https://user-images.githubusercontent.com/98158194/182030435-7aa43d38-91fd-477c-8378-6e893035774e.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/98158194/182030437-3970f7a1-9ae6-4e08-ad3a-5d8cc8804aef.png)
 ![WhatsApp Image 2021-12-25 at 11 34 41 (1)](https://user-images.githubusercontent.com/98158194/182030442-d0faa87a-f284-4cab-8e75-38d71e2ee55e.jpeg)

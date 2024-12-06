@@ -1,5 +1,0 @@
-# Akkıllı Priz Projesi
-
-- [Arduino Notlarım](https://github.com/kaankaltakkiran/Nesnelerin-interneti-Proje/tree/main/Son_Akilli_Priz/arduino)
-
-- [Web Site Notlarım ](https://github.com/kaankaltakkiran/Nesnelerin-interneti-Proje/tree/main/Son_Akilli_Priz/Web_site)
